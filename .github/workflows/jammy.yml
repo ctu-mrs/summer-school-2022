@@ -1,4 +1,4 @@
-name: Focal
+name: Jammy
 
 on:
   push:
