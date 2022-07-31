@@ -2,13 +2,13 @@ name: Focal
 
 on:
   push:
-    branches: [ devel ]
+    branches: [ actions ]
     paths-ignore:
       - '**/README.md'
       - '**.yaml'
       - '**.launch'
   pull_request:
-    branches: [ devel ]
+    branches: [ actions ]
 
   schedule:
     - cron:  '0 0 * * *' # at the end of every day
