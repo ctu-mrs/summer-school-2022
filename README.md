@@ -1,3 +1,7 @@
+# THIS IS REPOSITORY FOR YEAR 2022: [MRS SUMMER SCHOOL 2023](https://github.com/ctu-mrs/summer-school-2023/)
+
+----------------------------------------------------------------------------------
+
 # MRS Summer School 2022: multi-robot inspection and monitoring
 
 |        | 18.04                                                                                                                                        | 20.04                                                                                                                                       | 22.04                                                                                                                                       |
